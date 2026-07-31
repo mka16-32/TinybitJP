@@ -10,6 +10,7 @@
   "Tinybit.Line_Sensor|block": "|%direct |のセンサーが %value を検知",
   "Tinybit.CarCtrl|block": " 車を|%index",
   "Tinybit.CarCtrlSpeed|block": "|%speed |の速度で車を |%index",
+"Tinybit.Tinybit_motor_pid|block": "テストB",
   "Tinybit.CarCtrlSpeed2|block": "車を制御 |%index|速度1 %speed1|速度2 %speed2",
   "Tinybit.enColor.OFF|block": "オフ",
   "Tinybit.enColor.Red|block": "赤",
