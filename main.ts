@@ -305,7 +305,7 @@ namespace Tinybit {
         }
     }
     
-    //% blockId=Tinybit_CarCtrlSpeed block="CarCtrlSpeed|%index|speed %speed"
+    //% blockId=Tinybit_CarCtrlSpeed block="CarCtrlSpeedAAAAAAAAAAAAAAAA|%index|speed %speed"
     //% weight=92
     //% blockGap=10
     //% speed.min=0 speed.max=255
@@ -323,7 +323,7 @@ namespace Tinybit {
         }
     }
     
-    //% blockId=Tinybit_CarCtrlSpeed2 block="CarCtrlSpeed2AAAAAAAAAA|%index|speed1 %speed1|speed2 %speed2"
+    //% blockId=Tinybit_CarCtrlSpeed2 block="CarCtrlSpeed2|%index|speed1 %speed1|speed2 %speed2"
     //% weight=91
     //% blockGap=10
     //% speed1.min=0 speed1.max=255 speed2.min=0 speed2.max=255
@@ -433,7 +433,7 @@ namespace Tinybit {
 
     }
 
-    //% blockId=Tinybit_motor_pid block="AAAAAAAATinybit_motor_pid|motor_left:%sp_L|motor_right:%sp_R"
+    //% blockId=Tinybit_motor_pid block="Tinybit_motor_pid|motor_left:%sp_L|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmotor_right:%sp_R"
     //% color="#006400"
     //% weight=87
     //% sp_L.min=-255 sp_L.max=255  sp_R.min=-255 sp_R.max=255
