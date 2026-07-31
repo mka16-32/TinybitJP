@@ -1,6 +1,6 @@
 {
     "name": "Tinybit",
-    "version": "1.1",
+    "version": "1.2",
     "description": "日本語化したYahBoom Tiny:bit 向けの拡張機能です",
     "license": "MIT",
     "dependencies": {
@@ -11,6 +11,7 @@
     "files": [
         "README.md",
         "main.ts",
+        "infrared-receiver.ts",
         "_locales/zh-cn/Tinybit-strings.json",
         "_locales/zh-tw/Tinybit-strings.json",
         "_locales/fr/Tinybit-strings.json",
