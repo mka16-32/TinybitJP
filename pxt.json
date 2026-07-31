@@ -1,6 +1,6 @@
 {
     "name": "Tinybit",
-    "version": "1.0",
+    "version": "1.1",
     "description": "日本語化したYahBoom Tiny:bit 向けの拡張機能です",
     "license": "MIT",
     "dependencies": {
