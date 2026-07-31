@@ -4,27 +4,49 @@
 const enum IrButton {
 	//% block="any"
 	Any = -1,
+  //% block="power"
 	Power = 0x0,
+  //% block="up"
 	Up = 128,
+  //% block="left"
 	Left = 32,
+  //% block="right"
 	Right = 96,
+  //% block="down"
 	Down = 144,
+  //% block="light"
 	Light = 64,
+  //% block="beep"
 	BEEP = 160,
+  //% block="puls"
 	Plus = 48,
+  //% block="minus"
 	Minus = 112, 
+  //% block="tleft"
 	TLeft = 16,
+  //% block="tright"
 	TRight = 80,
+  //% block="num0"
 	NUM0 = 176,
+  //% block="num1"
 	NUM1 = 8,
+  //% block="num2"
 	NUM2 = 136,
+  //% block="num3"
 	NUM3 = 72,
+  //% block="num4"
 	NUM4 = 40,
+  //% block="num5"
 	NUM5 = 168,
+  //% block="num6"
 	NUM6 = 104,
+  //% block="num7"
 	NUM7 = 24,
+  //% block="num8"
 	NUM8 = 152,
+  //% block="num9"
 	NUM9 = 88
+
 }
 
 const enum IrButtonAction {
